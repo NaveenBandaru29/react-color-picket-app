@@ -1,0 +1,8 @@
+.card-container{
+    background: #fff;
+    padding:1em;
+    border-radius: 1em;
+    box-shadow: rgba(100, 100, 100, 0.5) 0px 7px 29px 0px;
+    /* flex-wrap:wrap; */
+
+}
